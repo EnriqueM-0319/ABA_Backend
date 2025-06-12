@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aba_backend.props" />
+</Project>

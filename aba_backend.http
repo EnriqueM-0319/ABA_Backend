@@ -1,0 +1,6 @@
+@aba_backend_HostAddress = http://localhost:5010
+
+GET {{aba_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
